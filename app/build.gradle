@@ -1,5 +1,5 @@
 plugins {
-    id 'com.android.application' version '8.2.2' apply true
+    id 'com.android.application' version '8.1.4' apply true
     // o la versión exacta que estés utilizando en tu entorno
 }
 
